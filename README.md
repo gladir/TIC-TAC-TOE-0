@@ -1,2 +1,2 @@
-# TIC-TAC-TOC-0
-Jeu Tic-Tac-Toc écrit en Turbo Pascal ou Free Pascal
+# TIC-TAC-TOE-0
+Jeu Tic-Tac-Toe écrit en Turbo Pascal ou Free Pascal
